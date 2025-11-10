@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to the future of VPN's
+      text: Welcome To The Future Of Cloud Storage
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
