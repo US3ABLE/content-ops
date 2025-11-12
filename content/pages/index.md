@@ -594,7 +594,7 @@ sections:
         textAlign: center
   - title:
       text: List of features here
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
