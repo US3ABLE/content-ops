@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Welcome To The Future Of Cloud Storage
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
