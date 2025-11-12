@@ -342,7 +342,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Nimbus_Phone_1.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
